@@ -1,5 +1,5 @@
 # Education-management-system-laravel
-I made it for learning purpose.
+It's a work sample.
 
 ## Please feel free to contact me if any assistance is needed in the future
 
